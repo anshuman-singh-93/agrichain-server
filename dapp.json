@@ -1,0 +1,13 @@
+{
+  "name": "agrichain",
+  "link": "https://github.com/sqfasd/asch-hello/archive/master.zip",
+  "category": 1,
+  "description": "",
+  "tags": "",
+  "icon": "https://www.asch.com/logo.png",
+  "delegates": [
+    "8065a105c785a08757727fded3a06f8f312e73ad40f1f3502e0232ea42e67efd"
+  ],
+  "unlockDelegates": 101,
+  "type": 0
+}
