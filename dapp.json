@@ -1,13 +1,22 @@
 {
-  "name": "agrichain",
-  "link": "https://github.com/sqfasd/asch-hello/archive/master.zip",
+  "name": "agriledger2",
+  "link": "https://github.com/sqfasd/asch-hello-dapp/archive/master.zip",
   "category": 1,
-  "description": "",
-  "tags": "",
+  "description": "test",
+  "tags": "test",
   "icon": "https://www.asch.com/logo.png",
   "delegates": [
-    "8065a105c785a08757727fded3a06f8f312e73ad40f1f3502e0232ea42e67efd"
+    "9e82184aed18c6842eeb974eee74b45036756ca8afda8d5e3a29ed2bbd88ca5b",
+    "c25622a514657fd89c23f3a6a93c70bb9680e1d7e7a64c3ae793995e979ef4ea",
+    "f061a20f45fd8eab155e53f0da73f9f81efe63d7329807cc8fc0e432b2ccbefe",
+    "adbdc6be64bd664a7c635c8468e9005c6c2d9926d21aa5b2169f84de70934359",
+    "9a1d1761cc4fb7ba50abad3d5632abb35ff7626c35b94bfebd7cc3ba59c41ce4",
+    "60dac7305e4e81dcaca448869760198949e3a08dd1ce1fe739e7850611f350ae",
+    "16cc00742f22108861f0b22e82ad3082a0eacd3a655b42315ec496ee0af42495",
+    "21a050629ab69b0d6dc62148c1f777b74d75ac37860b2a4666edacdaf435d29d",
+    "7bf627525f5e3959c14b02203ce8c103616c1deec052c7572677e3f08c34c214",
+    "4f137462a87972ac69b3a4ab9a61fab8a72243c0383e9e7b24528526e58e5f72"
   ],
-  "unlockDelegates": 101,
+  "unlockDelegates": 10,
   "type": 0
 }
